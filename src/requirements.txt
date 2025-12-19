@@ -1,0 +1,12 @@
+matplotlib==3.9.2
+gosdt==1.0.1
+numpy==1.26.4
+pandas==2.0.1
+scikit-learn==1.2.2
+memory-profiler==0.61.0
+pysr==1.5.5
+optuna==4.3.0
+interpret==0.7.1
+statsmodels==0.14.5
+scikit-posthocs==0.11.4
+igann==0.1.7
