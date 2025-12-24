@@ -71,14 +71,13 @@ The project includes:
 
 ### 1. Clone the repository
 ```bash
-git clone git@gitlab.com:univeristy3/tirocinio.git
-cd tirocinio
+git clone git@github.com:mattiabilla/CA-IML.git
 ```
 
 ### 2. Create a Python 3.11 virtual environment
 Using virtualenvwrapper:
 ```bash
-mkvirtualenv tirocinio -p /usr/bin/python3.11
+mkvirtualenv CA-IML -p /usr/bin/python3.11
 ```
 
 or using venv:
